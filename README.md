@@ -14,3 +14,11 @@
 ## Pizzeria MPD
 
 ![pizzeriampd](Dossierpizzeria/pizzeriampd.jpg)
+
+## Diagramme d'état
+
+![diagrammedetat](Dossierpizzeria/diagramme-etat-pizzeria.jpg)
+
+## BDD MySQL
+
+[Mysql](Dossierpizzeria/pizzeria.sql)
