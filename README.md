@@ -21,4 +21,4 @@
 
 ## BDD MySQL
 
-[Mysql](Dossierpizzeria/pizzeria.sql)
+[Base de données Mysql](Dossierpizzeria/pizzeria.sql)
