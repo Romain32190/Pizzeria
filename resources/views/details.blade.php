@@ -18,7 +18,7 @@
             @foreach($summary as $pizza)
                 <tr>
                     <td>
-                        <?= $pizza['name'] ?> €
+                        <?= $pizza['name'] ?> 
                     </td>
                     <td>
                         <?= $pizza['size'] ?> cm
